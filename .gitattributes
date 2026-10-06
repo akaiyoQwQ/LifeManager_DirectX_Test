@@ -1,0 +1,7 @@
+# 改行コードをCRLFに統一する
+* text=auto eol=crlf
+
+# バイナリファイル
+*.png binary
+*.jpg binary
+*.wav binary
