@@ -1,0 +1,11 @@
+routines:
+- name: 定例会
+  schedule:
+    frequency: daily
+    days:
+    - sun
+    time: 21:00
+  issue:
+    title: 定例会通知
+    labels:
+    - 種別:ルーチン
